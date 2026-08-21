@@ -13,17 +13,17 @@
 # a =  (1,2,3,4,5)
 # print(a[::-1])
 
-A = (5,3,5,5,2,5) 
-print(A.count(5))
+# A = (5,3,5,5,2,5) 
+# print(A.count(5))
 
-B = (100,200,300,400)
+# B = (100,200,300,400)
 
-print(B.index(300))
+# print(B.index(300))
 
-C = ("pakistan" , "karachi",)
+# C = ("pakistan" , "karachi",)
 
-D = ("John", 30, "Engineer")
-name , age ,prof = D
-print(name)
-print(age)
-print(prof)
+# D = ("John", 30, "Engineer")
+# name , age ,prof = D
+# print(name)
+# print(age)
+# print(prof)
