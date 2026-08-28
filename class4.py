@@ -1,23 +1,23 @@
 #airtmetic operators
-a = 5
-b = 10
-print(a+b)
-print(a-b)
-print(a*b)
-print(a**b)
-# //
-#/
-#%
-print(a/b)
-print(a//b)
-print(a%b)
-a = 10
-b = 20
-print(a/b)
-print(a//b)
-print(a%b)
-print(a+b)
-print(a-b)
+# a = 5
+# b = 10
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a**b)
+# # //
+# #/
+# #%
+# print(a/b)
+# print(a//b)
+# print(a%b)
+# a = 10
+# b = 20
+# print(a/b)
+# print(a//b)
+# print(a%b)
+# print(a+b)
+# print(a-b)
 
 # python operators 
 # logical operators 

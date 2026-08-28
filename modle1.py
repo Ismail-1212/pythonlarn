@@ -94,23 +94,23 @@
 
 # //// project //////
 
-name = input("show yours name")
-age = int (input("what is your age"))
-city = input("whts your city")
-profession = input("show me your  profession")
-age2 = 2026 - age 
+# name = input("show yours name")
+# age = int (input("what is your age"))
+# city = input("whts your city")
+# profession = input("show me your  profession")
+# age2 = 2026 - age 
 
-current_rank = 5
-target_rank = 1 
+# current_rank = 5
+# target_rank = 1 
 
-current_rank ,target_rank = target_rank , current_rank
+# current_rank ,target_rank = target_rank , current_rank
 
 
-print("======= PROFILE CARD =========")
-print(f"Name: {name}")
-print(f"age:{age}")
-print(f" city:{city}")
-print(f"proofssion:{profession}")
-print(f"birthywar {age2}")
-print(f"current_rank {current_rank}")
-print(f"target_rank{target_rank}")
+# print("======= PROFILE CARD =========")
+# print(f"Name: {name}")
+# print(f"age:{age}")
+# print(f" city:{city}")
+# print(f"proofssion:{profession}")
+# print(f"birthywar {age2}")
+# print(f"current_rank {current_rank}")
+# print(f"target_rank{target_rank}")
