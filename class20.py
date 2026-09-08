@@ -1,5 +1,4 @@
- function
-1
+# function
 
 def wallcome ():
     print("wallcome to python")
