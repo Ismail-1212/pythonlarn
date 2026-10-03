@@ -1,0 +1,13 @@
+school_name = "MHK Academy"
+total_marks = 300
+pass_percentage = 50
+subject_pass_marks = 40
+ 
+students = {
+    101: {"name": "  ali raza ",   "math": 78, "english": 65, "science": 82},
+    102: {"name": "SARA KHAN",     "math": 92, "english": 88, "science": 95},
+    103: {"name": "bilal ahmed  ", "math": 45, "english": 38, "science": 50},
+    104: {"name": "hina sheikh",   "math": 60, "english": 72, "science": 55}
+}
+
+task 1
